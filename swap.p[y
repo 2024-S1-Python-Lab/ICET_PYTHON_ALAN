@@ -1,0 +1,10 @@
+def swap(a,b):
+    t=a
+    a=b
+    temp=t
+    b=t
+    print("value inside function=",a)
+    print("value inside funcion=",b)
+    return
+
+
